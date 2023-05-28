@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main {
+  position: absolute;
+  width: 1258px;
+  height: 537px;
+  left: 91px;
+  margin-top: 50px;
+  background-image: url('home.svg');
+  background-repeat: no-repeat;
+  /* background-color: aqua; */
+}
